@@ -109,4 +109,5 @@ void deleteNode()
 		{
 			START->prev = NULL;
 		}
+
 	}
