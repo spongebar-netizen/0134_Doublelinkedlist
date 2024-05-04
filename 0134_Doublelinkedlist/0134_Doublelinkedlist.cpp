@@ -139,8 +139,10 @@ void traverse()
 		Node* currentNode = START;
 		while (currentNode != NULL)
 		{
+
 			cout << currentNode->noMhs << " " << currentNode->name << endl;
 			currentNode = currentNode->next;
+
 		}
 	}
 }
